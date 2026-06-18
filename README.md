@@ -47,7 +47,7 @@ $ cat profile.txt
 ### Active Directory & Network
 ![BloodHound](https://img.shields.io/badge/BloodHound-e3b341?style=flat-square)
 ![Kerberoasting](https://img.shields.io/badge/Kerberoasting-e3b341?style=flat-square)
-![Pass--the--Hash](https://img.shields.io/badge/Pass--the--Hash-e3b341?style=flat-square)
+![Pass-the-Hash](https://img.shields.io/badge/Pass--the--Hash-e3b341?style=flat-square)
 ![Impacket](https://img.shields.io/badge/Impacket-e3b341?style=flat-square)
 ![Nmap](https://img.shields.io/badge/Nmap-e3b341?style=flat-square)
 ![Nessus](https://img.shields.io/badge/Nessus-e3b341?style=flat-square)
@@ -111,11 +111,11 @@ $ cat profile.txt
 
 <div align="center">
 
-![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvii-007&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvii-007&theme=github_dark&hide_border=true&show_icons=true&hide=contribs)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yuvii-007&theme=github-dark-blue&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvii-007&theme=github_dark&hide_border=true&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvii-007&theme=github_dark&hide_border=true&layout=compact&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yuvii-007&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
