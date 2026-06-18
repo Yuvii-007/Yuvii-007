@@ -1,22 +1,146 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building hands-on skills in cybersecurity through labs, vulnerability testing, and real-world practice on platforms like TryHackMe and Hack The Box.<br><br>🤝 I’m looking to collaborate on<br>Beginner to intermediate cybersecurity projects, CTF challenges, web security testing, and learning-focused security research.<br><br>🆘 I’m looking for help with<br>Guidance on advanced penetration testing techniques, real-world security workflows, and career growth in cybersecurity.<br><br>🌱 I’m currently learning<br>Linux internals, networking fundamentals, OWASP Top 10 vulnerabilities, web application security, and basic threat analysis.<br><br>💬 Ask me about<br>Web security basics, OWASP Top 10, DVWA labs, Linux commands, networking concepts, and starting a career in cybersecurity.<br><br>⚡ Fun fact<br>I enjoy breaking things in labs so they don’t break in the real world. 😄
+<div align="center">
 
+# 👾 Yuvraj Singh Sisodiya
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Yuvraj Singh) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Yuvraj.Singh) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yuvii007_14351 ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yuvraj singh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuvii_007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-singh-sisodiya-b74262287/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ys6313091) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/yuvraj-singh-cyber) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Yuvii-007) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Yuvraj.Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ys6313091@gmail.com) 
+### `$ whoami → Security Engineer | Penetration Tester | AppSec Researcher`
 
-# 💻 Tech Stack:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yuvii-007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yuvii-007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvii-007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Location](https://img.shields.io/badge/📍_Jaipur,_India-0d1117?style=flat-square)
+![Status](https://img.shields.io/badge/✔_Available_for_Hire-238636?style=flat-square&labelColor=0d1117)
+![Experience](https://img.shields.io/badge/15+_VAPT_Engagements-1f6feb?style=flat-square&labelColor=0d1117)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yuvii-007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Yuvraj Singh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Yuvraj Singh) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Yuvraj Singh) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Yuvraj Singh) 
+## 🧠 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```bash
+$ cat profile.txt
+```
+
+> Security engineer with **1+ year** of professional experience in **web, mobile, API, network & Active Directory** penetration testing.
+> Delivered a **100% critical/high finding rate** across all engagements.
+> Passionate about security automation, CVE research, and sharing knowledge through technical writing.
+
+- 🔭 **Currently:** Building AI-powered security tools & researching advanced VAPT methodologies
+- ✍️ **Writing:** CVE analysis & security engineering articles on Medium
+- 🏆 **Practicing:** Active on TryHackMe — web exploitation, privilege escalation, AD attacks
+- 🎓 **Education:** B.Tech Computer Science & Engineering — Anand International College of Engineering, Jaipur (2022–2026)
+- 📬 **Reach me:** yuvraj.singh.sisodiya.work@gmail.com
+
+---
+
+## ⚔️ Technical Skills
+
+### Offensive Security
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-d63638?style=flat-square&logo=owasp&logoColor=white)
+![SQLi](https://img.shields.io/badge/SQLi-d63638?style=flat-square)
+![XSS](https://img.shields.io/badge/XSS-d63638?style=flat-square)
+![IDOR](https://img.shields.io/badge/IDOR-d63638?style=flat-square)
+![SSRF](https://img.shields.io/badge/SSRF-d63638?style=flat-square)
+![CSRF](https://img.shields.io/badge/CSRF-d63638?style=flat-square)
+![Auth Bypass](https://img.shields.io/badge/Auth_Bypass-d63638?style=flat-square)
+![OAuth/JWT](https://img.shields.io/badge/OAuth%2FJWT-d63638?style=flat-square)
+![API Security](https://img.shields.io/badge/API_Security-d63638?style=flat-square)
+![Business Logic](https://img.shields.io/badge/Business_Logic_Flaws-d63638?style=flat-square)
+
+### Active Directory & Network
+![BloodHound](https://img.shields.io/badge/BloodHound-e3b341?style=flat-square)
+![Kerberoasting](https://img.shields.io/badge/Kerberoasting-e3b341?style=flat-square)
+![Pass--the--Hash](https://img.shields.io/badge/Pass--the--Hash-e3b341?style=flat-square)
+![Impacket](https://img.shields.io/badge/Impacket-e3b341?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-e3b341?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-e3b341?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-e3b341?style=flat-square)
+
+### Web & Mobile AppSec Tools
+![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-ff6633?style=flat-square&logo=portswigger&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-ff6633?style=flat-square)
+![SQLMap](https://img.shields.io/badge/SQLMap-ff6633?style=flat-square)
+![ffuf](https://img.shields.io/badge/ffuf-ff6633?style=flat-square)
+![Gobuster](https://img.shields.io/badge/Gobuster-ff6633?style=flat-square)
+![MobSF](https://img.shields.io/badge/MobSF-ff6633?style=flat-square)
+![Frida](https://img.shields.io/badge/Frida-ff6633?style=flat-square)
+![Drozer](https://img.shields.io/badge/Drozer-ff6633?style=flat-square)
+![Objection](https://img.shields.io/badge/Objection-ff6633?style=flat-square)
+
+### Automation & DevSecOps
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![SAST/DAST](https://img.shields.io/badge/SAST%2FDAST_CI%2FCD-238636?style=flat-square)
+
+---
+
+## 🚀 Featured Projects
+
+### ⚙️ [Sec-Bot-Scribe](https://github.com/Yuvii-007/sec-bot-scribe)
+> Modular offensive automation platform for recon, payload generation & vulnerability analysis.
+
+- 🔌 New attack modules (SQLi, SSRF, auth bypass) integrate in **<50 lines** without touching core orchestration
+- ⚡ Deployed in **5+ client engagements** — reduced manual recon by ~2 hours per test
+- 📊 Auto-generates **CVSS-scored findings** for remediation workflows
+
+`Python` `Bash` `CI/CD` `CVSS Automation` `Modular Architecture`
+
+---
+
+### 🧠 [NexusSec AI](https://github.com/Yuvii-007)
+> Multi-agent security platform combining recon, CVE correlation, and SOC dashboard capabilities.
+
+- 🌐 Automates vulnerability assessments across **50+ assets per scan**
+- 🗺️ Attack graph visualizations covering **20+ vulnerability classes**
+- 🔗 Integrates CVE correlation, IOC matching, dark web monitoring & DevSecOps pipelines
+
+`Multi-Agent AI` `SOC Dashboard` `CVE Correlation` `DevSecOps` `Dark Web Monitoring`
+
+---
+
+## 🏅 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| 🛡️ Certified Ethical Hacker v13 (CEH v13) | EC-Council | Mar 2026 |
+| 🏴 Certified Active Directory Pentesting Expert (C-ADPENX) | SecOps Group | 2025 |
+| 🤖 Certified AI Security & Risk (CAISR) | EC-Council | 2026 |
+| 🌐 Certified Network Security Practitioner (CNSP) | SecOps Group | 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuvii-007&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yuvii-007&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvii-007&theme=github_dark&hide_border=true&layout=compact&count_private=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-singh-sisodiya-b74262287/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YUVRAJSINGHSISODIYA)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Yuvraj-Singh-Sisodiya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvii-007)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvraj.singh.sisodiya.work@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuvii_007)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Yuvii-007)
+
+</div>
+
+---
+
+<div align="center">
+
+*❝ Breaking things in controlled labs — so attackers can't break them in the real world. ❞*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yuvii-007&color=238636&style=flat-square&label=Profile+Views)
+
+</div>
